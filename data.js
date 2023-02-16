@@ -1,0 +1,53 @@
+const data = {
+  products: [
+    {
+      name: 'Grey Tshirt',
+      slug: 'Grey-Tshirt',
+      category: 'TShirts',
+      image: '/images/grey tshirt.jpg', // 679px × 829px
+      price: 120,
+      countInStock: 5,
+      brand: 'Nike',
+      rating: 4.5,
+      numReviews: 10,
+      description: 'high quality shirt',
+    },
+    {
+      name: 'Long Sleeve Denim Shirt',
+      slug: 'long-sleeve-denim-shirt',
+      category: 'Shirts',
+      image: '/images/long sleeve denim shirt (1).jpg',
+      price: 250,
+      countInStock: 4,
+      brand: 'Adidas',
+      rating: 4.0,
+      numReviews: 10,
+      description: 'high quality product',
+    },
+    {
+      name: 'Red Hoodie',
+      slug: 'red-hoodie',
+      category: 'Jackets',
+      image: '/images/red hoodie.jpg',
+      price: 150,
+      countInStock: 7,
+      brand: 'Nike',
+      rating: 4.5,
+      numReviews: 14,
+      description: 'high quality product',
+    },
+    {
+      name: 'Adidas Fit Pant',
+      slug: 'adidas-fit-pant',
+      category: 'Pants',
+      image: '/images/adidas pant.jpg',
+      price: 65,
+      countInStock: 5,
+      brand: 'Puma',
+      rating: 4.5,
+      numReviews: 10,
+      description: 'high quality product',
+    },
+  ],
+};
+export default data;
