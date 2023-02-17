@@ -8,7 +8,7 @@ function App() {
     <BrowserRouter>
       <div>
         <header>
-          <Link to="/">Calci</Link>
+          <Link to="/">CALCI</Link>
         </header>
         <main>
           <Routes>
